@@ -2,4 +2,4 @@
 #==========================================
 #Command to compile
 
-compc -source-path+=./src -include-classes Chart -output /opt/flex_sdk_3/frameworks/libs/OFC2Library.swc
+compc -source-path+=./src -include-classes Chart -output ./bin/OFC2Library.swc
